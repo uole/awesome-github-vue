@@ -12,7 +12,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [应用实例](#应用实例) 
 - [Demo示例](#Demo示例) 
 
-###UI组件 
+### UI组件 
 
 - [element](https://github.com/ElemeFE/element) ★11109 - 饿了么出品的Vue2的web UI工具套件 
 - [Vux](https://github.com/airyland/vux) ★7322 - 基于Vue和WeUI的组件库 
@@ -180,7 +180,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [dd-vue-component](https://github.com/ibufu/dd-vue-component) ★7 - 订单来了的公共组件库 
 - [vue-button](https://github.com/steven5538/vue-button) ★4 - Vue按钮组件 
 
-###开发框架 
+### 开发框架 
 
 - [vue.js](https://github.com/vuejs/vue) ★49333 - 流行的轻量高效的前端组件化方案 
 - [vue-admin](https://github.com/fundon/vue-admin) ★3742 - Vue管理面板框架 
@@ -199,7 +199,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [jspangAdmin](https://github.com/shenghy/jspangAdmin) ★99 - 基于Vue2的后台管理系统 
 - [vue-element-starter](https://github.com/Metnew/vue-element-starter) ★49 - vue启动页 
 
-###实用库 
+### 实用库 
 
 - [vuex](https://github.com/vuejs/vuex) ★6722 - 专为 Vue.js 应用程序开发的状态管理模式 
 - [vue-validator](https://github.com/vuejs/vue-validator) ★1686 - vue的验证器插件 
@@ -292,7 +292,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [doubanMovie-SSR](https://github.com/monkeyWangs/doubanMovie-SSR) ★48 - Vue豆瓣电影服务端渲染 
 - [vue-easy-renderer](https://github.com/leaves4j/vue-easy-renderer) ★31 - Nodejs服务端渲染 
 
-###辅助工具 
+### 辅助工具 
 
 - [DejaVue](https://github.com/MiCottOn/DejaVue) ★589 - Vuejs可视化及压力测试 
 - [vue-play](https://github.com/vue-play/vue-play) ★500 - 展示Vue组件的最小化框架 
@@ -301,7 +301,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [vue-multipage-cli](https://github.com/xwpongithub/vue-multipage-cli) ★38 - 简单的多页CLI 
 - [VuejsStarterKit](https://github.com/MetinSeylan/VuejsStarterKit) ★29 - vuejs starter套件 
 
-###应用实例 
+### 应用实例 
 
 - [koel](https://github.com/phanan/koel) ★7380 - 基于网络的个人音频流媒体服务 
 - [pagekit](https://github.com/pagekit/pagekit) ★4065 - 轻量级的CMS建站系统 
@@ -320,7 +320,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [vue-blog](https://github.com/surmon-china/vue-blog) ★67 - 使用Vue2.0 和Vuex的vue-blog 
 - [fewords](https://github.com/sapjax/fewords) ★57 - 功能极其简单的笔记本 
 
-###Demo示例 
+### Demo示例 
 
 - [vue2-elm](https://github.com/bailicangdu/vue2-elm) ★5160 - 重写饿了么webapp 
 - [Vue-cnodejs](https://github.com/shinygang/Vue-cnodejs) ★2291 - 基于vue重写Cnodejs.org的webapp 
